@@ -1,0 +1,18 @@
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\bin\Debug\DAL.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\bin\Debug\DAL.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\bin\Debug\DBUtility.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\bin\Debug\DBUtility.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\obj\Debug\DAL.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\DAL\obj\Debug\DAL.pdb
+D:\360Downloads\Login\DAL\bin\Debug\DAL.dll
+D:\360Downloads\Login\DAL\bin\Debug\DAL.pdb
+D:\360Downloads\Login\DAL\bin\Debug\DBUtility.dll
+D:\360Downloads\Login\DAL\bin\Debug\Model.dll
+D:\360Downloads\Login\DAL\bin\Debug\DBUtility.pdb
+D:\360Downloads\Login\DAL\bin\Debug\Model.pdb
+D:\360Downloads\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\360Downloads\Login\DAL\obj\Debug\DAL.dll
+D:\360Downloads\Login\DAL\obj\Debug\DAL.pdb

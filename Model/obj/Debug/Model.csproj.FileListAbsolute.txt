@@ -1,0 +1,9 @@
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\Model\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\Model\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\Model\obj\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\Model\obj\Debug\Model.pdb
+D:\360Downloads\Login\Model\bin\Debug\Model.dll
+D:\360Downloads\Login\Model\bin\Debug\Model.pdb
+D:\360Downloads\Login\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\360Downloads\Login\Model\obj\Debug\Model.dll
+D:\360Downloads\Login\Model\obj\Debug\Model.pdb

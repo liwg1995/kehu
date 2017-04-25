@@ -1,0 +1,22 @@
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\bin\Debug\BLL.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\bin\Debug\BLL.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\bin\Debug\DAL.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\bin\Debug\DBUtility.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\bin\Debug\DAL.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\bin\Debug\DBUtility.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\obj\Debug\BLL.dll
+D:\用户目录\我的文档\Visual Studio 2012\Projects\Login\BLL\obj\Debug\BLL.pdb
+D:\360Downloads\Login\BLL\bin\Debug\BLL.dll
+D:\360Downloads\Login\BLL\bin\Debug\BLL.pdb
+D:\360Downloads\Login\BLL\bin\Debug\DAL.dll
+D:\360Downloads\Login\BLL\bin\Debug\Model.dll
+D:\360Downloads\Login\BLL\bin\Debug\DBUtility.dll
+D:\360Downloads\Login\BLL\bin\Debug\DAL.pdb
+D:\360Downloads\Login\BLL\bin\Debug\Model.pdb
+D:\360Downloads\Login\BLL\bin\Debug\DBUtility.pdb
+D:\360Downloads\Login\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\360Downloads\Login\BLL\obj\Debug\BLL.dll
+D:\360Downloads\Login\BLL\obj\Debug\BLL.pdb
